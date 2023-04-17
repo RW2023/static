@@ -1,5 +1,6 @@
 
 # Scrimba React Course Project
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24ef9fcb-385e-4217-af5a-c55100d43335/deploy-status)](https://app.netlify.com/sites/scrimba-static/deploys)
 
 This is a project created for a Scrimba React course. The project is built using React and allows users to search for data using an API.
 
