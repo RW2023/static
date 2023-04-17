@@ -1,3 +1,9 @@
+
+# Scrimba React Course Project
+
+This is a project created for a Scrimba React course. The project is built using React and allows users to search for data using an API.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
