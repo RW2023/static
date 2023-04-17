@@ -2,6 +2,8 @@
   --background: ##282D35;
   --headerText: #DEEBF8;
   --text: #FFFFFF;
+  --bullets: #61DAFB;
+  --headerBackground: #21222A
 
 }
 
@@ -30,6 +32,7 @@ header {
   left: 0px;
   top: 0px;
   color: var(--headerText);
+  background-color: var(--headerBackground);
 }
 
 .headerTitle{
@@ -50,12 +53,23 @@ color: #DEEBF8;
 }
 
 body {
-  position: absolute;
-  width: 681px;
-  height: 459px;
-  left: 0px;
-  top: 91px;
   color: var(--text);
+}
+
+.mainBody{
+  position: absolute;
+    width: 681px;
+    height: 459px;
+    left: 0px;
+    top: 91px;
+}
+
+.bodyText{
+  position: absolute;
+    width: 390px;
+    height: 190px;
+    left: 74px;
+    top: 235px;
 }
 
 h1 {
@@ -80,4 +94,5 @@ ul li::marker {
   height: 160.61px;
   left: 51px;
   top: 239px;
+  color: var(--bullets);
 }
